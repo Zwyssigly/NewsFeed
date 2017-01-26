@@ -19,4 +19,4 @@ Unity supports.
 - Is built on the System.Xml namespace to parse news feeds. 
 
 ## Further documentation
-- Read ReadME.pdf
+- Read [this](./ReadMe.pdf)
